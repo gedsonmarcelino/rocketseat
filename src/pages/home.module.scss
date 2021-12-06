@@ -1,0 +1,42 @@
+// TODO
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: var(--container-padding);
+
+  a {
+    display: block;
+    margin-bottom: 3rem;
+
+    h1 {
+      font-size: 2.8rem;
+      color: var(--color-heading);
+      margin-bottom: 1rem;
+    }
+
+    p {
+      font-size: 1.8rem;
+      color: var(--color-body);
+      margin-bottom: 2.4rem;
+    }
+
+    div {
+      font-size: 1.4rem;
+      color: var(--color-info);
+
+      .icon {
+        margin-right: 1rem;
+      }
+
+      span {
+        margin-left: 2.4rem;
+      }
+    }
+  }
+
+  .loadMore {
+    font-size: 1.8rem;
+    color: var(--color-highlight);
+    margin-top: 1.2rem;
+  }
+}

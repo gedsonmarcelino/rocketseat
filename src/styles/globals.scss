@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// TODO
+:root {
+  --color-highlight: #ff57b2;
+  --color-bg: #1a1d23;
+  --color-heading: #f8f8f8;
+  --color-info: #bbbbbb;
+  --color-body: #d7d7d7;
+  --color-line: #2b2e33;
+
+  --container-padding: 0 2rem;
+
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+
+  @media (max-width: 425px) {
+    font-size: 58.59%;
+    --container-padding: 0 1.5rem;
+  }
+
+  @media (max-width: 375px) {
+    font-size: 54.68%;
+    --container-padding: 0 1rem;
+  }
+}
+
+body {
+  background-color: var(--color-bg);
+}
+
+a {
+  text-decoration: none;
+}
