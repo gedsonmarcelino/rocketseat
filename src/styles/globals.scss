@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// TODO
+:root {
+  --color-highlight: #ff57b2;
+  --color-bg: #1a1d23;
+  --color-heading: #f8f8f8;
+  --color-info: #bbbbbb;
+  --color-body: #d7d7d7;
+
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: var(--color-bg);
+}
+
+a {
+  text-decoration: none;
+}
