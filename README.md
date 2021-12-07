@@ -13,7 +13,7 @@ Ignite Curso (2020/2021)
 * 07 - Interface com Chakra UI
 * [08 - Upload de imagens](https://github.com/gedsonmarcelino/rocketseat/tree/reactjs/08-upload-de-imagens)
 * [09 - Otimizando a aplicação](https://github.com/gedsonmarcelino/rocketseat/tree/reactjs/09-otimizando-a-aplicacao)
-* 10 - Deploy da Aplicação
+* [10 - Deploy da Aplicação](https://github.com/gedsonmarcelino/rocketseat/tree/reactjs/10-deploy-aplicacao)
 
 
 ## Trilha - React Native
