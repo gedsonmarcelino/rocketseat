@@ -18,7 +18,7 @@ Ignite Curso (2020/2021)
 
 ## Trilha - React Native
 * [01 - Conceitos do React Native](https://github.com/gedsonmarcelino/rocketseat/tree/reactnative/01-conceitos-do-react-native)
-* [02 - Adicionando edição e alertas]()
+* [02 - Adicionando edição e alertas](https://github.com/gedsonmarcelino/rocketseat/tree/reactnative/02-adcionando-edicao-e-alertas)
 
 ## Trilha - Node JS
 ...
